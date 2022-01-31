@@ -18,6 +18,8 @@ NPM I
 
 ## Usage
 
+![SMAPI](https://user-images.githubusercontent.com/88950762/151812658-1d2a750e-6aa8-4426-83b9-ca673910fca0.PNG)
+
 GIVEN a social network API
 WHEN I enter the command to invoke the application
 THEN my server is started and the Mongoose models are synced to the MongoDB database
