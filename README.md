@@ -14,7 +14,8 @@ I have developed a backend for a social media platform using express and mongoos
 
 
 ## Installation
-```NPM I
+```
+NPM I
 ```
 ## Usage
 
