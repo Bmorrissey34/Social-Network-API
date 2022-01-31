@@ -4,18 +4,18 @@
 I have developed a backend for a social media platform using express and mongoose
 
 ## Table of Contents
-```
+
 - [Installation](#Installation)
 - [Usage](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Usage)
 - [My Info](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#my-info)
 - [Tests](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Tests)
 - [Credits](https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Credits)
-```
+
 
 
 ## Installation
-NPM I
-
+```NPM I
+```
 ## Usage
 
 ![SMAPI](https://user-images.githubusercontent.com/88950762/151812658-1d2a750e-6aa8-4426-83b9-ca673910fca0.PNG)
