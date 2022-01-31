@@ -21,6 +21,10 @@ NPM I
 
 ![SMAPI](https://user-images.githubusercontent.com/88950762/151812658-1d2a750e-6aa8-4426-83b9-ca673910fca0.PNG)
 
+
+https://user-images.githubusercontent.com/88950762/151819436-ec2926d5-3a87-4a6a-83de-8ae8dd95e759.mp4
+
+
 ```GIVEN a social network API
 
 WHEN I enter the command to invoke the application
